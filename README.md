@@ -1,2 +1,3 @@
-# puzzles
-Puzzles and solutions
+# Puzzles
+
+- [Crack the code](crack-the-code.md)
