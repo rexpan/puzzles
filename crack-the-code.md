@@ -7,9 +7,9 @@
 > A numeric lock has a 3 digit key
 > - `6 8 2` One number is correct and well placed
 > - `6 1 4` One number is correct but wrong placed
-> - `6 8 2` Two numbers are correct but wrong placed
-> - `6 8 2` Nothing is correct
-> - `6 8 2` One number is correct and well placed
+> - `2 0 6` Two numbers are correct but wrong placed
+> - `7 3 8` Nothing is correct
+> - `7 8 0` One number is correct and well placed
 
 
 # Solution
